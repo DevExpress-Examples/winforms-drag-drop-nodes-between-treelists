@@ -74,12 +74,10 @@ namespace Q1824862_1
             850000,
             new System.DateTime(2005, 5, 5, 0, 0, 0)}, 4);
             this.treeList1.EndUnboundLoad();
-            this.treeList1.OptionsBehavior.DragNodes = true;
+            this.treeList1.OptionsDragAndDrop.DragNodesMode = DevExpress.XtraTreeList.DragNodesMode.Single;
             this.treeList1.OptionsBehavior.Editable = false;
             this.treeList1.Size = new System.Drawing.Size(681, 285);
             this.treeList1.TabIndex = 0;
-            this.treeList1.DragDrop += new System.Windows.Forms.DragEventHandler(this.OnDragDrop);
-            this.treeList1.DragEnter += new System.Windows.Forms.DragEventHandler(this.OnDragEnter);
             // 
             // colDepartment1
             // 
@@ -122,12 +120,10 @@ namespace Q1824862_1
             this.treeList2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.treeList2.Location = new System.Drawing.Point(0, 285);
             this.treeList2.Name = "treeList2";
-            this.treeList2.OptionsBehavior.DragNodes = true;
+            this.treeList2.OptionsDragAndDrop.DragNodesMode = DevExpress.XtraTreeList.DragNodesMode.Single;
             this.treeList2.OptionsBehavior.Editable = false;
             this.treeList2.Size = new System.Drawing.Size(681, 291);
             this.treeList2.TabIndex = 0;
-            this.treeList2.DragDrop += new System.Windows.Forms.DragEventHandler(this.OnDragDrop);
-            this.treeList2.DragEnter += new System.Windows.Forms.DragEventHandler(this.OnDragEnter);
             // 
             // colDepartment2
             // 
