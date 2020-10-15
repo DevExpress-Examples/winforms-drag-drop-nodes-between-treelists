@@ -28,34 +28,34 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v17.2, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraTreeList.v17.2, Version=17.2.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraTreeList.v17.2, Version=17.2.16.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A, processorArchitecture=MSIL">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
