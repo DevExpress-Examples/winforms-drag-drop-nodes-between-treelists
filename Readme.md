@@ -7,3 +7,8 @@
 # How to implement drag and drop between two XtraTreeList controls
 
 This example demonstrates how to copy nodes between two TreeList controls by enabling the <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraTreeList.TreeListOptionsDragAndDrop.AcceptOuterNodes">TreeList.OptionsDragAndDrop.AcceptOuterNodes</a> option.
+
+
+<b>See also:</b>
+
+[DevExpress WinForms Cheat Sheet - Drag-and-Drop Within/Between Controls](https://go.devexpress.com/CheatSheets_WinForms_Examples_T949086.aspx)
