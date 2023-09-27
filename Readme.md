@@ -6,7 +6,7 @@
 
 # WinForms TreeList - Move nodes between TreeList controls using drag-and-drop
 
-Enable the [TreeList.OptionsDragAndDrop.AcceptOuterNodes](https://docs.devexpress.com/WindowsForms/DevExpress.XtraTreeList.TreeListOptionsDragAndDrop.AcceptOuterNodes) option to allow the TreeList control accept nodes being dragged from another TreeList control.
+Enable the [TreeList.OptionsDragAndDrop.AcceptOuterNodes](https://docs.devexpress.com/WindowsForms/DevExpress.XtraTreeList.TreeListOptionsDragAndDrop.AcceptOuterNodes) option to allow the TreeList control to accept nodes being dragged from another TreeList control.
 
 ```csharp
 public Form1() {
